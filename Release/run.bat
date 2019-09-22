@@ -1,0 +1,1 @@
+scaleForFloorLifting.exe -matrix testMtr.txt -sizes testSizes.txt -th7 - distUp 26 -girthUp 12

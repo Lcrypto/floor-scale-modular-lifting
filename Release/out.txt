@@ -1,0 +1,8 @@
+var = 16	check = 10	circ = 50
+scale factor = 23	girth = 6	ace on cycles of length <= 10 = 13	dist from th7 = 26
+var = 16	check = 10	circ = 70
+scale factor = 13	girth = 6	ace on cycles of length <= 10 = 13	dist from th7 = 26
+var = 16	check = 10	circ = 80
+scale factor = 4	girth = 6	ace on cycles of length <= 10 = 13	dist from th7 = 26
+var = 16	check = 10	circ = 90
+scale factor = 49	girth = 8	ace on cycles of length <= 10 = 13	dist from th7 = 26
